@@ -16,7 +16,6 @@
 
 ### :man_technologist: About Me :
 I am a Data Enthusiast from Indonesia
-- 🔭 I’m currently working as a Data Analyst Intern at [**eFishery**](https://efishery.com/).
 - 👯 I’m looking to collaborate on **Data Science** and **Data Visualization**.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mlnayusuf24-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mlnayusuf24/)
 
